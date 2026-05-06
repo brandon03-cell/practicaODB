@@ -26,5 +26,6 @@
     </orderEntry>
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="jakarta.persistence-api-3.2.0" level="project" />
+    <orderEntry type="library" name="jakarta.persistence-api-3.2.0 (2)" level="project" />
   </component>
 </module>
